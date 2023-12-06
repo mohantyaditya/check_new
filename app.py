@@ -27,3 +27,9 @@ st.sidebar.markdown("""
 - Nothing 
 - Contact                                        
 """)
+
+st.sidebar.markdown("""
+- Home 
+- Nothing 
+- new                                        
+""")
