@@ -21,3 +21,9 @@ st.sidebar.markdown("""
 - About 
 - Contact                                        
 """)
+
+st.sidebar.markdown("""
+- Home 
+- Nothing 
+- Contact                                        
+""")
