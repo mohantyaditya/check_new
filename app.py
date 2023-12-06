@@ -29,13 +29,10 @@ st.sidebar.markdown("""
 """)
 
 st.sidebar.markdown("""
-<<<<<<< HEAD
 - Main 
 - Nothing 
 - Contact                                        
-=======
 - Home 
 - Nothing 
 - new                                        
->>>>>>> new
 """)
