@@ -15,3 +15,9 @@ st.title("New check")
 st.title("2nd coo")
 
 st.header("2nd course added")
+
+st.sidebar.markdown("""
+- Home 
+- About 
+- Contact                                        
+""")
